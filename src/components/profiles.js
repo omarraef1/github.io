@@ -27,8 +27,8 @@ function Item(data){
                         </div>
 
                         <div className="info">
-                            <span>{value.week_score}</span>
-                            <h3><b>{value.score}</b></h3>
+                            <p><b>Weekly: </b>{value.week_score}</p>
+                            <p><b>All Time: {value.score}</b></p>
                         </div>
                     </div>
                     )
