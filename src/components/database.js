@@ -72,7 +72,7 @@ export const Leaderboard = [
         location: "Zahraa Maadi",
         score : 70000,
         week_score: 600,
-        img: "https://drive.google.com/uc?export=view&id=1DcUo-xnB_bdWhhBTk3URC-IvdqHD_KtY",
+        img: "https://drive.google.com/uc?export=view&id=1g9pOA7s-ETKrKUGuzi9ghXv9K2P-XG1N",
         dt: "2023-06-05"
     }
 ]

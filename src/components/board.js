@@ -16,7 +16,7 @@ export default function Board() {
   return (
     <div className="board">
         <div>
-            <img src={process.env.PUBLIC_URL + '1618248586647.jpg'} alt="logo" width="70px" />
+            <img src={process.env.PUBLIC_URL + '1618248586647.png'} alt="logo" width="70px" />
         </div>
         <h1 className='leaderboard'>E1T1 Summer 2023 Leaderboards</h1>
 
