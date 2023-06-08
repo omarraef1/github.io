@@ -66,4 +66,13 @@ export const Leaderboard = [
         img: "https://drive.google.com/uc?export=view&id=1DcUo-xnB_bdWhhBTk3URC-IvdqHD_KtY",
         dt: "2023-06-05"
     }
+    ,
+    {
+        name: "Omar Adel",
+        location: "Zahraa Maadi",
+        score : 70000,
+        week_score: 600,
+        img: "https://drive.google.com/uc?export=view&id=1DcUo-xnB_bdWhhBTk3URC-IvdqHD_KtY",
+        dt: "2023-06-05"
+    }
 ]
