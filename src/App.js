@@ -1,5 +1,6 @@
 import Board from './components/board';
 import './components/style.css';
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
