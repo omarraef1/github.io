@@ -54,7 +54,7 @@ export default function TraineesDataDisplay() {
     }
     ,
     {
-        name: "Kaitly Lin",
+        name: "Kaitlyn Lin",
         score: 7100,
         week_score: 7100,
         img: "https://drive.google.com/uc?export=view&id=1DcBBkN12BB7FetApMDvfJ3odAgPkdEcS"
