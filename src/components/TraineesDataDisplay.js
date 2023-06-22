@@ -6,64 +6,64 @@ export default function TraineesDataDisplay() {
     
     {
         name: "Alissa Nitedthunyakij",
-        score: 0,
-        week_score: 0,
+        score: 6800,
+        week_score: 6800,
         img: "https://drive.google.com/uc?export=view&id=1ikorMHT2LIzyf3Hm3zLiJReOr-5WZR-3"
     }
     ,
     {
         name: "Joanne Zeng",
-        score: 0,
-        week_score: 0,
+        score: 5550,
+        week_score: 5550,
         img: "https://drive.google.com/uc?export=view&id=1cbkSE9RdRTD6lMQB_zQF-GICrBuj7Psc"
     }
     ,
     {
         name: "Karim ELbarbary",
-        score: 0,
-        week_score: 0,
+        score: 1800,
+        week_score: 1800,
         img: "https://drive.google.com/uc?export=view&id=1cEs5GYxVxYPxCOHt9aUyb3KfgRTouS8i"
     }
     ,
     {
         name: "Theresa Pham",
-        score: 0,
-        week_score: 0,
+        score: 6000,
+        week_score: 6000,
         img: "https://drive.google.com/uc?export=view&id=16EaWli6Afv4NEc2t9Z4oMKP7H4iFkV-q"
     }
     ,
     {
         name: "Omar Raef",
-        score: 0,
-        week_score: 0,
+        score: 1000,
+        week_score: 1000,
         img: "https://drive.google.com/uc?export=view&id=1fe8jMHj98vTkk3kqtcMOIBQ4Omlj-drX"
     }
     ,
     {
         name: "Alina Bushma",
-        score: 0,
-        week_score: 0,
+        score: 500,
+        week_score: 500,
         img: "https://drive.google.com/uc?export=view&id=1-7IINNAaF3iWmfXJvG1fnqyBPCuaCDwk"
     }
     ,
     {
         name: "Roonak Thapa",
-        score: 0,
-        week_score: 0,
+        score: 500,
+        week_score: 500,
         img: "https://drive.google.com/uc?export=view&id=1LIpbXzQJ3jrnfR7Sz4oI9Jm3I4ucRgtH"
     }
     ,
     {
         name: "Kaitly Lin",
-        score: 0,
-        week_score: 0,
+        score: 7100,
+        week_score: 7100,
         img: "https://drive.google.com/uc?export=view&id=1DcBBkN12BB7FetApMDvfJ3odAgPkdEcS"
     }
     ,
     {
         name: "Richard Fong",
-        score: 0,
-        week_score: 0,
+        score: 4500,
+        week_score: 4500,
         img: "https://drive.google.com/uc?export=view&id=1bfyAWwUZmGitXC7vWSg99MlEeZQp6fRu"
     }
     ];
@@ -112,7 +112,7 @@ export default function TraineesDataDisplay() {
                                     <div className="info">
                                         <Row>
                                             <Col sm={2}><p><small>Cumulative:</small></p></Col>
-                                            <Col sm={10}><ProgressBar min={10} max={4350} now={item.score} label={`${item.score} PTS`} /></Col>
+                                            <Col sm={10}><ProgressBar min={10} max={7100} now={item.score} label={`${item.score} PTS`} /></Col>
                                         </Row>
                                     </div>
                                 </>
@@ -121,7 +121,7 @@ export default function TraineesDataDisplay() {
                                     <div className="info">
                                         <Row>
                                             <Col sm={2}><p><small>Weekly:</small></p></Col>
-                                            <Col sm={10}><ProgressBar min={1} max={4350} now={item.week_score} label={`${item.week_score} PTS`} /></Col>
+                                            <Col sm={10}><ProgressBar min={1} max={7100} now={item.week_score} label={`${item.week_score} PTS`} /></Col>
                                         </Row>
                                     </div>
                                 </>
