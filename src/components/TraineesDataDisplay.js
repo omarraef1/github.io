@@ -3,75 +3,69 @@ import { Col, ProgressBar, Row } from 'react-bootstrap';
 
 export default function TraineesDataDisplay() {
     const TraineesLeaderboard = [
-        {
-            name: "Daniel Supmitchotima",
-            score: 3350,
-            week_score: 3350,
-            img: "https://drive.google.com/uc?export=view&id=1qQ4WR9C00UBKRhDJ1dztLdJbSDlstzTe"
-        }
-        ,
-        {
-            name: "Destiny Wu",
-            score: 3850,
-            week_score: 3850,
-            img: "https://drive.google.com/uc?export=view&id=1lqHlWChsNSK-okF7xpjdcgtl4RFNLIYZ"
-        }
-        ,
-        {
-            name: "Aaron Lui",
-            score: 0,
-            week_score: 0,
-            img: "https://drive.google.com/uc?export=view&id=1M4zjzWkramzOU19_ReHfN5Kg4YmcLLEF"
-        }
-        ,
-        {
-            name: "Jonathan Vi",
-            score: 1950,
-            week_score: 1950,
-            img: "https://drive.google.com/uc?export=view&id=13WzRvhOY3iMW-vO5KhKzBwNpvAv-9yUN"
-        }
-        ,
-        {
-            name: "Vincent Au",
-            score: 1850,
-            week_score: 1850,
-            img: "https://drive.google.com/uc?export=view&id=1GZgWg9Iz-AdvTULE1fcXPoIp6ZVLYRm_"
-        }
-        ,
-        {
-            name: "Lillian Chan",
-            score: 2850,
-            week_score: 2850,
-            img: "https://drive.google.com/uc?export=view&id=1rzz53iQQdmRKYfpeRMDBPme8I_guAueS"
-        }
-        ,
-        {
-            name: "Anastasiia Kotsiuruba",
-            score: 2350,
-            week_score: 2350,
-            img: "https://drive.google.com/uc?export=view&id=1S7ZI-Q2IjMBbLvBIh07E2LJvQkX08NQ6"
-        }
-        ,
-        {
-            name: "Omar Adel Clara Ng ",
-            score: 4350,
-            week_score: 4350,
-            img: "https://drive.google.com/uc?export=view&id=1Z2snP9zWzM-p1lftV_VCc5Tp-kdhfgnG"
-        }
-        ,
-        {
-            name: "Julianna Chiu",
-            score: 500,
-            week_score: 500,
-            img: "https://drive.google.com/uc?export=view&id=17g4yuK0xZJPQYdnE1aWSJxC7WgMlzmjJ"
-        }
-        ,
-        {
-            name: "Rebecca Mei",
-            score: 1550,
-            week_score: 1550,
-            img: "https://drive.google.com/uc?export=view&id=1J9iapVO2YWDHkNfHegkY57wybGLWRvMp"
-        }
+    
+    {
+        name: "Alissa Nitedthunyakij",
+        score: 0,
+        week_score: 0,
+        img: "https://drive.google.com/uc?export=view&id=1ikorMHT2LIzyf3Hm3zLiJReOr-5WZR-3"
+    }
+    ,
+    {
+        name: "Joanne Zeng",
+        score: 0,
+        week_score: 0,
+        img: "https://drive.google.com/uc?export=view&id=1cbkSE9RdRTD6lMQB_zQF-GICrBuj7Psc"
+    }
+    ,
+    {
+        name: "Karim ELbarbary",
+        score: 0,
+        week_score: 0,
+        img: "https://drive.google.com/uc?export=view&id=1cEs5GYxVxYPxCOHt9aUyb3KfgRTouS8i"
+    }
+    ,
+    {
+        name: "Theresa Pham",
+        score: 0,
+        week_score: 0,
+        img: "https://drive.google.com/uc?export=view&id=16EaWli6Afv4NEc2t9Z4oMKP7H4iFkV-q"
+    }
+    ,
+    {
+        name: "Omar Raef",
+        score: 0,
+        week_score: 0,
+        img: "https://drive.google.com/uc?export=view&id=1fe8jMHj98vTkk3kqtcMOIBQ4Omlj-drX"
+    }
+    ,
+    {
+        name: "Alina Bushma",
+        score: 0,
+        week_score: 0,
+        img: "https://drive.google.com/uc?export=view&id=1-7IINNAaF3iWmfXJvG1fnqyBPCuaCDwk"
+    }
+    ,
+    {
+        name: "Roonak Thapa",
+        score: 0,
+        week_score: 0,
+        img: "https://drive.google.com/uc?export=view&id=1LIpbXzQJ3jrnfR7Sz4oI9Jm3I4ucRgtH"
+    }
+    ,
+    {
+        name: "Kaitly Lin",
+        score: 0,
+        week_score: 0,
+        img: "https://drive.google.com/uc?export=view&id=1DcBBkN12BB7FetApMDvfJ3odAgPkdEcS"
+    }
+    ,
+    {
+        name: "Richard Fong",
+        score: 0,
+        week_score: 0,
+        img: "https://drive.google.com/uc?export=view&id=1bfyAWwUZmGitXC7vWSg99MlEeZQp6fRu"
+    }
     ];
 
     const [selectedAttribute, setSelectedAttribute] = useState('score');
