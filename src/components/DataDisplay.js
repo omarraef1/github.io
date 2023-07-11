@@ -54,8 +54,8 @@ const DataDisplay = () => {
           team: "Team A",
           name: "Lillian Chan",
           TL: "Karim ElBarbary & Theresa Pham",
-          allTimeScore: 6700,
-          weeklyScore: 850,
+          allTimeScore: 7200,
+          weeklyScore: 500,
           img: "https://drive.google.com/uc?export=view&id=1rzz53iQQdmRKYfpeRMDBPme8I_guAueS"
       },
       {
@@ -63,8 +63,8 @@ const DataDisplay = () => {
           team: "Team A",
           name: "Anastasiia Kotsiuruba",
           TL: "Karim ElBarbary & Theresa Pham",
-          allTimeScore: 6700,
-          weeklyScore: 850,
+          allTimeScore: 4950,
+          weeklyScore: 500,
           img: "https://drive.google.com/uc?export=view&id=1S7ZI-Q2IjMBbLvBIh07E2LJvQkX08NQ6"
       },
       {
@@ -72,8 +72,8 @@ const DataDisplay = () => {
           team: "Team A",
           name: "Clara Ng",
           TL: "Karim ElBarbary & Theresa Pham",
-          allTimeScore: 6700,
-          weeklyScore: 850,
+          allTimeScore: 10900,
+          weeklyScore: 1200,
           img: "https://drive.google.com/uc?export=view&id=1Z2snP9zWzM-p1lftV_VCc5Tp-kdhfgnG"
       },
       {
