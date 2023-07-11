@@ -539,6 +539,7 @@ const DataDisplay = () => {
   };
 
   const handleCombinedButtonClick = () => {
+    setDisplayTeams(false);
     setSelectedTeam(combinedData);
     setDisplayWeeklyScore(false);
     setDisplayAllTimeScore(false);
