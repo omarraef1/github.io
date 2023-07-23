@@ -625,7 +625,7 @@ const DataDisplay = () => {
                           <Col sm={10}>
                             <ProgressBar
                               min={1}
-                              max={5250}
+                              max={4200}
                               now={team.weeklyScore}
                               label={`${team.weeklyScore} PTS`}
                             />
@@ -662,7 +662,7 @@ const DataDisplay = () => {
                           <Col sm={10}>
                             <ProgressBar
                               min={1}
-                              max={14600}
+                              max={16650}
                               now={team.allTimeScore}
                               label={`${team.allTimeScore} PTS`}
                             />
