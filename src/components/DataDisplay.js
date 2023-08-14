@@ -100,7 +100,7 @@ const DataDisplay = () => {
         name: "Nicholas Sin",
         TL: "Karim ElBarbary & Theresa Pham",
         allTimeScore: 7300,
-        weeklyScore: 2500,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1x6PHER74sHu63AyPKtudSOrOEf4Di-7_",
       },
     ],
@@ -120,7 +120,7 @@ const DataDisplay = () => {
         name: "Beonica Lee",
         TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
         allTimeScore: 12750,
-        weeklyScore: 1750,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1vuP-XqyG9Qar5belCV5q-SmNF2tqmFZG",
       },
       {
@@ -129,7 +129,7 @@ const DataDisplay = () => {
         name: "Anna (Chu Qin) Huang",
         TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
         allTimeScore: 15050,
-        weeklyScore: 1000,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1GLN7jcYfACY9f6QsCogPoBQJiDaXhurk",
       },
       {
@@ -138,7 +138,7 @@ const DataDisplay = () => {
         name: "Joanne Guan",
         TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
         allTimeScore: 13050,
-        weeklyScore: 3200,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1_K3n3QwwSFKQW0xV-M1RvF6okPjr8Ji6",
       },
       {
@@ -147,7 +147,7 @@ const DataDisplay = () => {
         name: "Jingtong Guan",
         TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
         allTimeScore: 12050,
-        weeklyScore: 1750,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1DisPxMJ2GmhzNWaqYBWFxJF2rDEGaX_b",
       },
       {
@@ -165,7 +165,7 @@ const DataDisplay = () => {
           name: "Victoria Tan",
           TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
           allTimeScore: 15050,
-          weeklyScore: 1500,
+          weeklyScore: 0,
           img: "https://drive.google.com/uc?export=view&id=1t3SVP8msfED2_K-5GTy7l5X9lvO8GSpx"
       },
       {
@@ -228,8 +228,8 @@ const DataDisplay = () => {
           team: "Team B",
           name: "Christopher Li",
           TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
-          allTimeScore: 2100,
-          weeklyScore: 0,
+          allTimeScore: 2600,
+          weeklyScore: 500,
           img: ""
       }
       ,
@@ -239,7 +239,7 @@ const DataDisplay = () => {
           name: "Tyler Yee",
           TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
           allTimeScore: 14050,
-          weeklyScore: 500,
+          weeklyScore: 0,
           img: "https://drive.google.com/uc?export=view&id=1GUj7qGMzHZLziHXNLqyOwieRLyfzpcl6"
       }
       ,
@@ -279,7 +279,7 @@ const DataDisplay = () => {
           name: "Alina Nitedthunyakij",
           TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
           allTimeScore: 11300,
-          weeklyScore: 1000,
+          weeklyScore: 0,
           img: "https://drive.google.com/uc?export=view&id=1zaM2d89RP5B6zibOyG4RNJHY5j-k7Xs2"
       }
       ,
@@ -289,7 +289,7 @@ const DataDisplay = () => {
           name: "Jacob Ho",
           TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
           allTimeScore: 12850,
-          weeklyScore: 500,
+          weeklyScore: 0,
           img: ""
       },
 
@@ -302,7 +302,7 @@ const DataDisplay = () => {
         name: "Bryan Leong",
         TL: "Richard Fong & Alissa Nitedthunyakij",
         allTimeScore: 11550,
-        weeklyScore: 1700,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1d4QffZmhUCQwDHwdtaAWhgdmjz7SbvT0"
     }
     ,
@@ -311,8 +311,8 @@ const DataDisplay = () => {
         team: "Team C",
         name: "Darren Son",
         TL: "Richard Fong & Alissa Nitedthunyakij",
-        allTimeScore: 11200,
-        weeklyScore: 1250,
+        allTimeScore: 11700,
+        weeklyScore: 500,
         img: "https://drive.google.com/uc?export=view&id=1b-mBLknlNj1HXBMYV5qAu6wxJbGNYslB"
     }
     ,
@@ -322,7 +322,7 @@ const DataDisplay = () => {
         name: "Eric Cai",
         TL: "Richard Fong & Alissa Nitedthunyakij",
         allTimeScore: 11900,
-        weeklyScore: 1950,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1uu3Bh0DdtdgUgL6J8l3NWAbGSEpW2hAF"
     }
     ,
@@ -332,7 +332,7 @@ const DataDisplay = () => {
         name: "Hailey Moy",
         TL: "Richard Fong & Alissa Nitedthunyakij",
         allTimeScore: 5450,
-        weeklyScore: 1950,
+        weeklyScore: 0,
         img: ""
     }
     ,
@@ -352,7 +352,7 @@ const DataDisplay = () => {
         name: "Liyaqat Sahull",
         TL: "Richard Fong & Alissa Nitedthunyakij",
         allTimeScore: 3350,
-        weeklyScore: 500,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1QPFcW6gv_-CWD09DSVY7nhVIbp90tDnu"
     }
     ,
@@ -382,7 +382,7 @@ const DataDisplay = () => {
         name: "Samson Xu",
         TL: "Richard Fong & Alissa Nitedthunyakij",
         allTimeScore: 14050,
-        weeklyScore: 1500,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1MRkN_TPI8lq0jyVek8KJUea1AvCR3bKa"
     }
     ,
@@ -401,8 +401,8 @@ const DataDisplay = () => {
         team: "Team C",
         name: "Yolihuani Aguilar Velazquez",
         TL: "Richard Fong & Alissa Nitedthunyakij",
-        allTimeScore: 7950,
-        weeklyScore: 4100,
+        allTimeScore: 8450,
+        weeklyScore: 500,
         img: "https://drive.google.com/uc?export=view&id=1APqvT7KeHPDuT21Ee1TgCF68MrMOTByS"
     },
     {
@@ -411,7 +411,7 @@ const DataDisplay = () => {
         name: "Nathaniel Li",
         TL: "Richard Fong & Alissa Nitedthunyakij",
         allTimeScore: 8050,
-        weeklyScore: 1500,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1x6PHER74sHu63AyPKtudSOrOEf4Di-7_"
     },
     {
@@ -429,7 +429,7 @@ const DataDisplay = () => {
         name: "Leo Zhou",
         TL: "Richard Fong & Alissa Nitedthunyakij",
         allTimeScore: 14250,
-        weeklyScore: 1950,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=13A8ZL-F4T2BJncIIs_QePxNje8IfQkEb"
     }
     ],
@@ -439,8 +439,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Abenezer Benniame",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 17350,
-          weeklyScore: 1450,
+          allTimeScore: 19600,
+          weeklyScore: 2250,
           img: "https://drive.google.com/uc?export=view&id=1eWpxplFmUX17RR4bLdDSCUcsf52DbWtb"
       },
       {
@@ -457,8 +457,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Naeema Hassan",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 10800,
-          weeklyScore: 2250,
+          allTimeScore: 11800,
+          weeklyScore: 1000,
           img: "https://drive.google.com/uc?export=view&id=1xlInRFp6sLrBadkdK06_MneYNmpJtKa5"
       },
       {
@@ -466,8 +466,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Priyota Imam",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 8350,
-          weeklyScore: 1000,
+          allTimeScore: 8700,
+          weeklyScore: 350,
           img: "https://drive.google.com/uc?export=view&id=1AZxgvQxBA8p0A6mn-u6tVzffiq9-7d9O"
       },
       {
@@ -475,8 +475,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Bilal Shaikh",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 14150,
-          weeklyScore: 1250,
+          allTimeScore: 15650,
+          weeklyScore: 1500,
           img: "https://drive.google.com/uc?export=view&id=16bS6JM3kkCWOvXMDxKuLtzxMGMM-1F_N"
       },
       {
@@ -493,8 +493,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Jaden Tran",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 7850,
-          weeklyScore: 2500,
+          allTimeScore: 8850,
+          weeklyScore: 1000,
           img: "https://drive.google.com/uc?export=view&id=1FiGds5bZNmADA7aQ1GlDYHiHh0t0e82d"
       },
       {
@@ -512,7 +512,7 @@ const DataDisplay = () => {
           name: "Juan Cardona",
           TL: "Roonak Thapa & Kayla Phan",
           allTimeScore: 12200,
-          weeklyScore: 2250,
+          weeklyScore: 0,
           img: "https://drive.google.com/uc?export=view&id=1uWIz2IOxfIcvQv1GU-U_Gq_kgIeZVKPV"
       },
       {
@@ -521,7 +521,7 @@ const DataDisplay = () => {
           name: "Thomas Moraine-Badenar",
           TL: "Roonak Thapa & Kayla Phan",
           allTimeScore: 8100,
-          weeklyScore: 2500,
+          weeklyScore: 0,
           img: "https://drive.google.com/uc?export=view&id=1KaEuOzwCoGGFKgjXeNqyH5QQdPGsKrQ-"
       },
       {
@@ -529,8 +529,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Ethan Oren",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 850,
-          weeklyScore: 0,
+          allTimeScore: 1350,
+          weeklyScore: 500,
           img: ""
       },
 
@@ -634,7 +634,7 @@ const DataDisplay = () => {
                           <Col sm={10}>
                             <ProgressBar
                               min={1}
-                              max={4100}
+                              max={2500}
                               now={team.weeklyScore}
                               label={`${team.weeklyScore} PTS`}
                             />
@@ -671,7 +671,7 @@ const DataDisplay = () => {
                           <Col sm={10}>
                             <ProgressBar
                               min={1}
-                              max={17400}
+                              max={19600}
                               now={team.allTimeScore}
                               label={`${team.allTimeScore} PTS`}
                             />
