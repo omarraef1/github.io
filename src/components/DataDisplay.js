@@ -229,7 +229,7 @@ const DataDisplay = () => {
           name: "Christopher Li",
           TL: "Joanne Zeng, Kaitlyn Lin & Alina Bushma",
           allTimeScore: 2600,
-          weeklyScore: 500,
+          weeklyScore: 0,
           img: ""
       }
       ,
@@ -312,7 +312,7 @@ const DataDisplay = () => {
         name: "Darren Son",
         TL: "Richard Fong & Alissa Nitedthunyakij",
         allTimeScore: 11700,
-        weeklyScore: 500,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1b-mBLknlNj1HXBMYV5qAu6wxJbGNYslB"
     }
     ,
@@ -402,7 +402,7 @@ const DataDisplay = () => {
         name: "Yolihuani Aguilar Velazquez",
         TL: "Richard Fong & Alissa Nitedthunyakij",
         allTimeScore: 8450,
-        weeklyScore: 500,
+        weeklyScore: 0,
         img: "https://drive.google.com/uc?export=view&id=1APqvT7KeHPDuT21Ee1TgCF68MrMOTByS"
     },
     {
@@ -440,7 +440,7 @@ const DataDisplay = () => {
           name: "Abenezer Benniame",
           TL: "Roonak Thapa & Kayla Phan",
           allTimeScore: 19600,
-          weeklyScore: 2250,
+          weeklyScore: 0,
           img: "https://drive.google.com/uc?export=view&id=1eWpxplFmUX17RR4bLdDSCUcsf52DbWtb"
       },
       {
@@ -457,8 +457,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Naeema Hassan",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 11800,
-          weeklyScore: 1000,
+          allTimeScore: 13150,
+          weeklyScore: 1350,
           img: "https://drive.google.com/uc?export=view&id=1xlInRFp6sLrBadkdK06_MneYNmpJtKa5"
       },
       {
@@ -467,7 +467,7 @@ const DataDisplay = () => {
           name: "Priyota Imam",
           TL: "Roonak Thapa & Kayla Phan",
           allTimeScore: 8700,
-          weeklyScore: 350,
+          weeklyScore: 0,
           img: "https://drive.google.com/uc?export=view&id=1AZxgvQxBA8p0A6mn-u6tVzffiq9-7d9O"
       },
       {
@@ -475,8 +475,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Bilal Shaikh",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 15650,
-          weeklyScore: 1500,
+          allTimeScore: 16750,
+          weeklyScore: 1100,
           img: "https://drive.google.com/uc?export=view&id=16bS6JM3kkCWOvXMDxKuLtzxMGMM-1F_N"
       },
       {
@@ -493,8 +493,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Jaden Tran",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 8850,
-          weeklyScore: 1000,
+          allTimeScore: 9900,
+          weeklyScore: 1050,
           img: "https://drive.google.com/uc?export=view&id=1FiGds5bZNmADA7aQ1GlDYHiHh0t0e82d"
       },
       {
@@ -511,8 +511,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Juan Cardona",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 12200,
-          weeklyScore: 0,
+          allTimeScore: 13300,
+          weeklyScore: 1100,
           img: "https://drive.google.com/uc?export=view&id=1uWIz2IOxfIcvQv1GU-U_Gq_kgIeZVKPV"
       },
       {
@@ -520,8 +520,8 @@ const DataDisplay = () => {
           team: "Team D",
           name: "Thomas Moraine-Badenar",
           TL: "Roonak Thapa & Kayla Phan",
-          allTimeScore: 8100,
-          weeklyScore: 0,
+          allTimeScore: 8300,
+          weeklyScore: 200,
           img: "https://drive.google.com/uc?export=view&id=1KaEuOzwCoGGFKgjXeNqyH5QQdPGsKrQ-"
       },
       {
@@ -530,7 +530,7 @@ const DataDisplay = () => {
           name: "Ethan Oren",
           TL: "Roonak Thapa & Kayla Phan",
           allTimeScore: 1350,
-          weeklyScore: 500,
+          weeklyScore: 0,
           img: ""
       },
 
@@ -634,7 +634,7 @@ const DataDisplay = () => {
                           <Col sm={10}>
                             <ProgressBar
                               min={1}
-                              max={2500}
+                              max={1350}
                               now={team.weeklyScore}
                               label={`${team.weeklyScore} PTS`}
                             />
